@@ -1,2 +1,3 @@
 # Git_test1
-Git Practice
+Git Practice.
+Mastering git commands via CLI.
